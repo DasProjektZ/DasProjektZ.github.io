@@ -1,20 +1,39 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Website info
+name: '支學寶/雜談'
+description: "If it is worth doing, it is worth doing well!"
 
-# Site settings
-title: 支學寶/雜談
-email: huwung.molnplus@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  If it is worth doing, it is worth doing well
-  (一不做，二不休).
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: molnplus
-github_username:  DasProjektZ
+# Author's info
+author: '王虎'
+username: hugo Berstein
+bio: '山西農業大學生物工程；電子科技大學分子生物學與細胞生物學；成都軍區臨床醫學檢驗中心信息科學；醫學參考報責任編輯；支學寶合夥人'
+location: 'Chengdu, China'
+url: 'http://huwung.github.io'
+image: 'assets/images/logo.cloud.jpg'
 
-# Build settings
-markdown: kramdown
+# Jykell configuration
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+language: 'en-us'
+short_url: 'biomadeira.github.io/jasper/'
+google_analytics: UA-69281367-1
+disqus: username
+baseurl: /jasper/
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:username
+# permalink: /tag/:tag
+
+
+# gems and other configs
+gems: [jekyll-paginate]
+exclude: [vendor]
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
