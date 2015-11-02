@@ -9,8 +9,8 @@
 title: 支學寶/雜談
 email: huwung.molnplus@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  If it is worth doing, it is worth doing well./
-  一不做，二不休。
+  If it is worth doing, it is worth doing well
+  (一不做，二不休).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: molnplus

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>支學寶/雜談</title>
+    <description>If it is worth doing, it is worth doing well (一不做，二不休).
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Nov 2015 15:23:12 +0800</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2015 15:23:12 +0800</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2015 16:05:56 +0800</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2015 16:05:56 +0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
