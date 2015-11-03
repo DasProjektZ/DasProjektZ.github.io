@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: 關於我們
 ---
 
 <div class="post">
