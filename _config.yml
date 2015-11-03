@@ -1,7 +1,7 @@
 title: 支學寶 / 商業計劃
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://DasProjektZ.github.io/long-haul
+url: http://DasProjektZ.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
