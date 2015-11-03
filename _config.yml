@@ -24,4 +24,7 @@ social:
    facebook: Hu Wong
    email: huwung.molnplus@gmail.com
 
+gems:
+ - jekyll-paginate
+
 google_analytics: "UA-58263416-1"
