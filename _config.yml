@@ -1,39 +1,27 @@
-# Website info
-name: '支學寶/雜談'
-description: "If it is worth doing, it is worth doing well!"
+title: 支學寶/商業計劃
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-# Author's info
-author: '王虎'
-username: hugo Berstein
-bio: '山西農業大學生物工程；電子科技大學分子生物學與細胞生物學；成都軍區臨床醫學檢驗中心信息科學；醫學參考報責任編輯；支學寶合夥人'
-location: 'Chengdu, China'
-url: 'http://huwung.github.io'
-image: 'assets/images/logo.cloud.jpg'
+url: http://DasProjektZ.github.io/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-# Jykell configuration
 markdown: redcarpet
 highlighter: pygments
 paginate: 5
-language: 'en-us'
-short_url: 'DasProjektZ.github.io'
-google_analytics: UA-69281367-1
-disqus: username
-baseurl: /jasper/
 
-# Permalinks
-permalink: /:title
-# permalink: /author/:username
-# permalink: /tag/:tag
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
 
+social:
+   github: DasProjektZ
+   twitter: molnplus
+   facebook: Hu Wong
+   email: huwung.molnplus@gmail.com
 
-# gems and other configs
-gems: [jekyll-paginate]
-exclude: [vendor]
-
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
+google_analytics: "UA-58263416-1"
