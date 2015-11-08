@@ -3,12 +3,7 @@ layout: post
 title:  "支學寶的生存和發展"
 date: 2015-10-07 15:54:34
 author: hugo HOOVER
-meta: 
-categories: jekyll update
 ---
-
-
-<!-- This file is created from $MARBOO_HOME/.media/starts/default.md -->
 
 在客戶開發階段，我們需要摸索出一套可行的模式。
 
@@ -17,7 +12,10 @@ categories: jekyll update
 3. 產品和服務通過不斷改進後達到**銷售要求**，然後擴大規模；
 4. 公司從創業模式轉型為執行模式，從探索開發團隊轉為各個職能部門。
 
-## **獲取和重視客戶的反饋**
+## 獲取和重視客戶的反饋
+反饋是精益創業的重要環節。
+即便在傳統企業，及時有效地獲得客戶反饋也是很重要的。
+
 
 ## 制約創業的因素
 
@@ -33,5 +31,6 @@ categories: jekyll update
 ## 融資
 
 ### 融資渠道應該分散化
+天使投資是初創企業的主要融資方向。
 
 ### 追蹤即時信息
