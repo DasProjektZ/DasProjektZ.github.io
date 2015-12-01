@@ -6,11 +6,11 @@
                  {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
                  <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
                      <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-                 </li> 
+                 </li>
                  {% endfor %}
-                 <li> <a href="https://zhixuebao.github.io" target="_blank">Z計劃</a></li>
-                 <li><a href="https://molnplus.github.io" target="_blank">molnplus lab</a></li>
-                 <li> <a href="https://huwung.github.io" target="_blank">王虎的blog</a></li>
+                 <li> <a href="https://zhixuebao.github.io" target="_blank">支學寶</a></li>
+                 <li><a href="https://molnplus.github.io" target="_blank">MOLNPLUS LAB</a></li>
+                 <li> <a href="https://huwung.github.io" target="_blank">BLOG</a></li>
              </ul>
          </nav>
      </div>
