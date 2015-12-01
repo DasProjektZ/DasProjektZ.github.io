@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "創業者筆記"
-date: 2015-10-07 14:43:58
-author: hugo HOOVER
 ---
 
 

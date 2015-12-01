@@ -1,17 +1,7 @@
 ---
 layout: post
 title:  "財務計劃"
-date: 2015-10-07 13:55:14
-author: hugo HOOVER
-meta: 
-categories: jekyll update
 ---
-
-
-<!-- This file is created from $MARBOO_HOME/.media/starts/default.md -->
-
-
-
 
 ## 會計要素
 

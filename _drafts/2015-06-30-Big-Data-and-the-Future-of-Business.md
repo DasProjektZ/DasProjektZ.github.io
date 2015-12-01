@@ -1,9 +1,6 @@
 ---
-title:  "Big Data and the Future of Business"
-date: 2015-06-30 1:18:38 nachm.
 layout: post
-author: Kenneth Cukier
-categories: jekyll update
+title:  "Big Data and the Future of Business"
 ---
 
 `technologyreview.com`

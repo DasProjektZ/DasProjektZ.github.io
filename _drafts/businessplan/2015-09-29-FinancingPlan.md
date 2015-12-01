@@ -1,12 +1,5 @@
 ---
 layout: post
 title:  "FinancingPlan"
-date: 2015-09-29 03:50:49
-author: hugo HOOVER
-meta: 
-categories: jekyll update
 ---
-
-
-<!-- This file is created from $MARBOO_HOME/.media/starts/default.md -->
-
+融資計劃對於現在的我們來說是很重要的。

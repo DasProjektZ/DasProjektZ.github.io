@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "支學寶的生存和發展"
-date: 2015-10-07 15:54:34
-author: hugo HOOVER
+image: cover2.jpg
 ---
 
 在客戶開發階段，我們需要摸索出一套可行的模式。
