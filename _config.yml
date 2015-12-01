@@ -13,8 +13,8 @@ paginate: 5
 navigation:
  - title: 近期動態
    url: /index.html
- - title: 關於
-   url: /about
+ - title: WIKI
+   url: /wiki
  - title: 聯繫我們
    url: /contact
 
