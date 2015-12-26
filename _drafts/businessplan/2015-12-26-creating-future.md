@@ -32,3 +32,10 @@ burberry的案例啓示我們，這是個前景理想回報巨大的方向。
 	<img src="{{ '/assets/img//svg/direction.svg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Fig1. - 通過這一思維導圖，我們展望了未來的業務方向。</figcaption>
 </figure>
+
+## 調研
+**調研市場，找到我們的目標用戶，然後為他們量身定制**。
+
+
+## conclusions
+**成功不是終點，只是一段旅程；真正成功的人士永遠沒有終點，他會一直在達成下一個目標的路上**。
