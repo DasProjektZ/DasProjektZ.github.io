@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "BUSINESS TIPS"
+title:  "商業技巧：第一部分"
 date:   2014-09-08
 image: touring.jpg
 ---
+
+瞭解一些大而無用的概念和現有環境中約定俗成的做事方法是必要的。
+儘管沒有什麼現實的意義，但這樣的價值觀可以幫助企業管理團隊選擇合適的方式，避免前人犯過錯誤，避免重覆工作。
 
 ## Sachin Agarwal：在APPLE(NASDAQ:APPL)我學到的9條管理經驗 
 
@@ -24,7 +27,6 @@ image: touring.jpg
 5. 上市後，業績穩定，高薪請高人。
 
 激勵方式要與不同公司、不同職位匹配。
-
 
 ## 什麼最重要？
 
