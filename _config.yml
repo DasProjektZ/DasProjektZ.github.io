@@ -1,5 +1,5 @@
 title: 支學寶 | 商業計劃
-description: 
+description:
 
 url: http://DasProjektZ.github.io
 baseurl: ""
@@ -14,7 +14,7 @@ navigation:
  - title: 近期動態
    url: /index.html
  - title: WIKI
-   url: /wiki
+   url: /wiki.md
  - title: 聯繫我們
    url: /contact
 
