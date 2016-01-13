@@ -1,0 +1,13 @@
+# Site settings
+title: 支學寶
+email: hu_wong@126.com
+description: > # this means to ignore newlines until "baseurl:"
+  <h2> Das Projekt Z <br /></h2>
+  “Do small things with great love.”
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: huWONGplus
+github_username:  DasProjektZ
+
+# Build settings
+markdown: kramdown
