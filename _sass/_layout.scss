@@ -205,7 +205,7 @@
 .cover {
     color: rgb(241, 241, 241);
     height: 100%;
-    background: url('http://lakto.org/assets/img/cover.jpg') no-repeat center center fixed;
+    background: url('/assets/img/cover.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -273,7 +273,7 @@
 
 .site-name__inner .name {
     font-size: 100px;
-    font-family: 'PingFang TC', 'Microsoft YaHei UI', 'Source Sans Pro', sans-serif;
+    font-family: Impact, 'PingFang TC', 'Microsoft YaHei UI', 'Source Sans Pro', sans-serif;
 }
 
 .site-name__inner .desc {
