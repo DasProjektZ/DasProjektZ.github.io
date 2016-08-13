@@ -1,3 +1,4 @@
 _site
-_drafts/memo
 .sass-cache
+
+node_modules
