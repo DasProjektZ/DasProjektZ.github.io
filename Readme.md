@@ -41,7 +41,7 @@ You have to fill some informations on `_config.yml` to customize your site.
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
-url: "http://localhost:3000" # the base hostname & protocol for your site 
+url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
 username: Lorem Ipsum
@@ -76,7 +76,7 @@ You can use the `initpost.sh` to create your new posts. Just follow the command:
 
 The new file will be created at `_posts` with this format `date-title.md`.
 
-## Front-matter 
+## Front-matter
 
 When you create a new post, you need to fill the post information in the front-matter, follow this example:
 
@@ -108,16 +108,6 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 - Run `npm install -g gulp gulp-cli` (maybe you need to use `sudo` command)
 - Run `gulp`
 
-## Questions
-
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@willian_justen](https://twitter.com/willian_justen) or file a [GitHub Issue](https://github.com/willianjusten/will-jekyll-template/issues/new).
-
-
-## Donation
-
-If you liked my work, buy me a coffee <3
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTMFZUHX6EUGE)
 
 ## License
 
